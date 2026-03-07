@@ -4,14 +4,14 @@
 [![build status](https://img.shields.io/travis/duojs/duo.svg)](https://travis-ci.org/duojs/duo)
 [![Join the chat at https://gitter.im/duojs/duo](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/duojs/duo?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-Duo is a next-generation package manager that blends the best ideas from [Component](https://github.com/component/component), [Browserify](https://github.com/substack/node-browserify) and [Go](http://golang.org/) to make organizing and writing front-end code quick and painless.
+Duo is a next-generation package manager that blends the best ideas from [Component](https://github.com/Unity-Billal-mesloub/component), [Browserify](https://github.com/Unity-Billal-mesloub/browserify) and [Go](http://github.com/Unity-Billal-mesloub/) to make organizing and writing front-end code quick and painless.
 
 - [Features](#features)
 - [Installation](#installation)
 - [Getting Started](#getting-started)
 - [Command Line Usage](/docs/cli.md)
 - [Javascript API](/docs/api.md)
-- [Duo.js Plugins](https://github.com/duojs/duo/wiki/Third-Party-Libraries)
+- [Duo.js Plugins](https://github.com/Unity-Billal-mesloub/duo/wiki/Third-Party-Libraries)
 - [FAQ](/docs/faq.md)
 - [Mailing List](https://groups.google.com/forum/#!forum/duojs)
 - `#duojs` on freenode
@@ -105,7 +105,7 @@ Example:
 $ DEBUG=duo* duo index.js
 ```
 
-If you can't figure it out, you should open an issue: https://github.com/duojs/duo/issues
+If you can't figure it out, you should open an issue: https://github.com/Unity-Billal-mesloub/duo/issues
 
 ## Test
 
@@ -117,15 +117,12 @@ make test
 
 ## Authors
 
-- [Matthew Mueller](https://github.com/MatthewMueller)
-- [Amir Abu Shareb](https://github.com/yields)
-- Plus many more wonderful [contributors](https://github.com/duojs/duo/graphs/contributors)!
+- [Billal-mesloub](https://github.com/Unity-Billal-mesloub)
+- Plus many more wonderful [contributors](https://github.com/Unity-Billal-mesloub/duo/graphs/contributors)!
 
 ## License
 
 The MIT License
-
-Copyright &copy; 2014
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
